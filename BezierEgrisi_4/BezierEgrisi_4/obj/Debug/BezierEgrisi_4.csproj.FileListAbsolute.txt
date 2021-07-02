@@ -1,0 +1,10 @@
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\bin\Debug\BezierEgrisi_4.exe.config
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\bin\Debug\BezierEgrisi_4.exe
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\bin\Debug\BezierEgrisi_4.pdb
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\obj\Debug\BezierEgrisi_4.Properties.Resources.resources
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\obj\Debug\BezierEgrisi_4.csproj.GenerateResource.cache
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\obj\Debug\BezierEgrisi_4.csproj.CoreCompileInputs.cache
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\obj\Debug\BezierEgrisi_4.exe
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\obj\Debug\BezierEgrisi_4.pdb
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\obj\Debug\BezierEgrisi_4.Form1.resources
+C:\Users\nesli\source\repos\BezierEgrisi_4\BezierEgrisi_4\obj\Debug\BezierEgrisi_4.csprojAssemblyReference.cache
